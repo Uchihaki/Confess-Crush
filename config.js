@@ -1,20 +1,18 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    titleWeb: "loitotinhmuonmang",
+    introTitle: 'Phạm Thụy Kim Ngọc',
+    introDesc: ` Ngoài kia mây trắng nắng vàng
+    Lòng anh chỉ có một người là em `,
+    btnIntro: ' Bấm vào đây nè Còi ^^',
+    title: 'Phải chăng anh đã yêu ngay từ lần đầu nhìn thấy cái bánh (và em ^^) 🥰',
+    desc: 'Làm người yêu anh nhé <3333',
+    btnYes: 'Oke yêu luôn',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
+    question: 'Trai Đức Trọng không thiếu, mà sao em lại yêu anh <3',
+    btnReply: 'Gửi cho người eo',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    mess: 'Em hay đấy 🥰. Yêu em nhiều 😘😘',
+    messDesc: 'Hẹn em một ngày không xa, ngày nào thì anh chưa biết :)) btw cảm ơn Trang với Mi ^^',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.youtube.com/watch?v=EBHOXV1ihus' 
 }
